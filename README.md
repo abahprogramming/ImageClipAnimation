@@ -1,0 +1,2 @@
+# ImageClipAnimation
+- Language HTML, CSS
